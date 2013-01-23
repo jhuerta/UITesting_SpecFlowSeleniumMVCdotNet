@@ -1,0 +1,6 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Default" />
+  <Config name="Default" binpathtype="Auto">
+    <assembly path="UITesting.SpecFlow.Tests\bin\Debug\UITesting.SpecFlow.Tests.dll" />
+  </Config>
+</NUnitProject>

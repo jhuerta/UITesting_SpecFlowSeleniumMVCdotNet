@@ -1,0 +1,9 @@
+D:\MyStuff\Work\Source_Code\UITesting\UITesting.SpecFlow.Tests\bin\Debug\UITesting.SpecFlow.Tests.dll.config
+D:\MyStuff\Work\Source_Code\UITesting\UITesting.SpecFlow.Tests\bin\Debug\UITesting.SpecFlow.Tests.dll
+D:\MyStuff\Work\Source_Code\UITesting\UITesting.SpecFlow.Tests\bin\Debug\UITesting.SpecFlow.Tests.pdb
+D:\MyStuff\Work\Source_Code\UITesting\UITesting.SpecFlow.Tests\bin\Debug\nunit.framework.dll
+D:\MyStuff\Work\Source_Code\UITesting\UITesting.SpecFlow.Tests\bin\Debug\TechTalk.SpecFlow.dll
+D:\MyStuff\Work\Source_Code\UITesting\UITesting.SpecFlow.Tests\bin\Debug\nunit.framework.xml
+D:\MyStuff\Work\Source_Code\UITesting\UITesting.SpecFlow.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\MyStuff\Work\Source_Code\UITesting\UITesting.SpecFlow.Tests\obj\Debug\UITesting.SpecFlow.Tests.dll
+D:\MyStuff\Work\Source_Code\UITesting\UITesting.SpecFlow.Tests\obj\Debug\UITesting.SpecFlow.Tests.pdb
